@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The papists designe against the Parliament and Citie of London discovered, by a letter found neere White-Hall, sent from L. M. a Iesuit, to R. C. a popish lord. Which caused the traine bands to guard and conduct the Parliament from London to Westminster, shewing the great treachery of many popish recusants, who intended to seize upon the Crty [sic] of London, and how their plot was disanulled. And describing the cause of the Citie rising in armes to defend themselves from the conspiracie of the papists. As also, vvith the cause of the Kings, Queenes, and Princes departure to Hampton Court, and of the great guard that went with them, for feare any danger should ensue.</title>
+            <author>L. M., Jesuit.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89502</idno>
+            <idno type="STC">Wing M53</idno>
+            <idno type="STC">Thomason E181_33</idno>
+            <idno type="STC">ESTC R959</idno>
+            <idno type="EEBO-CITATION">99873578</idno>
+            <idno type="PROQUEST">99873578</idno>
+            <idno type="VID">126055</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89502)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 126055)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 32:E181[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The papists designe against the Parliament and Citie of London discovered, by a letter found neere White-Hall, sent from L. M. a Iesuit, to R. C. a popish lord. Which caused the traine bands to guard and conduct the Parliament from London to Westminster, shewing the great treachery of many popish recusants, who intended to seize upon the Crty [sic] of London, and how their plot was disanulled. And describing the cause of the Citie rising in armes to defend themselves from the conspiracie of the papists. As also, vvith the cause of the Kings, Queenes, and Princes departure to Hampton Court, and of the great guard that went with them, for feare any danger should ensue.</title>
+                  <author>L. M., Jesuit.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H.F.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>in the yeare 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:126055:1"/>
+            <!-- PDF PAGE 7 -->
+            <p>
+               <figure>
+                  <figure/>
+                  <figure>
+                     <sp>
+                        <p>READE AND CONSIDAR</p>
+                     </sp>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:126055:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <p>THE PAPISTS DESIGNE AGAINST THE PARLIAMENT and Citie of <hi>LONDON</hi> diſcovered, By a Letter found neere White-Hall, ſent from <hi>L. M.</hi> a Ieſuit, to <hi>R. C.</hi> a Popiſh Lord.</p>
+            <p>Which cauſed the Traine Bands to guard and con<g ref="char:EOLhyphen"/>duct the Parliament from London to Weſtminſter, Shewing the great treachery of many Popiſh Re<g ref="char:EOLhyphen"/>cuſants, who intended to ſeize upon the Crty of London, and how their plot was diſanulled.</p>
+            <p>And deſcribing the cauſe of the Citie riſing in Armes to defend themſelves from the Conſpiracie of the Papiſts.</p>
+            <p>As alſo, <hi>VVith the cauſe of the Kings, Queenes, and Princes de<g ref="char:EOLhyphen"/>parture to Hampton Court, and of the great Guard that went with them, for feare any danger ſhould enſue.</hi>
+            </p>
+            <p>Printed for <hi>H. F.</hi> in the yeare 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:126055:2"/>
+            <!-- PDF PAGE 8 -->
+            <pb facs="tcp:126055:2"/>
+            <!-- PDF PAGE 8 -->
+            <head>The Papiſts deſygnes againſt the Parliament and Citie of London, diſcovered.</head>
+            <p>POpery is the nurſe of rebellion, and the mother of diſaſtrous diſcords; yea the very handmaid to diſtru<g ref="char:EOLhyphen"/>cton for where Popiſh ſuperſtitions, and Romiſh in<g ref="char:EOLhyphen"/>novations are imbraced, there rebellion is commonly fo<g ref="char:EOLhyphen"/>mented: and where rebellion findes nutriment, there is a neceſſary dependance of diſcords; and in a Kingdome where diſcords flouriſh, deſtruction cannot be farre off. The treacheries which the Papiſts have oftentimes moulded againſt this Realme, are numerous, and the plots circumvented daily againſt the purity of our reli<g ref="char:EOLhyphen"/>gion, are ſo various, that it had been confounded and ſup<g ref="char:EOLhyphen"/>planted long ſince in an abſolute eradication of all ſan<g ref="char:EOLhyphen"/>ctity, if ſo be divers ſtrong Pillars thereof had not ſup<g ref="char:EOLhyphen"/>ported the ponderous ſtratagems intended againſt the ſame, by prodigious conſpiracies.</p>
+            <p>The reſolution of the Papiſts have bin grounded often<g ref="char:EOLhyphen"/>times, and withall fully reſolved to ſubvert this king<g ref="char:EOLhyphen"/>dome: And the Ieſuites have alwayes diligently labou<g ref="char:EOLhyphen"/>red with ſedulity, to ruinate the Realme. But both have been plotting alwayes the ſubverſion of the Parliament, if ſo be they could perfect their minds in any wiſe. But
+<pb facs="tcp:126055:3"/>
+               <!-- PDF PAGE 9 -->(alas!) the ſage iudgements of the Parliament are ſo pregnant, and the eye of their apprehentiſe intellect is to acute, that it can eaſily dive into the hiddeneſt vault of their ſecreteſt plot and conſpiracie. For their hea<g ref="char:EOLhyphen"/>ven-guided mindes are taught by the ſupreame Dire<g ref="char:EOLhyphen"/>ctor of all wiſedome: therefore whatſoever is pretended againſt them, is like miſts and fogges, that when they ariſe, ſeeme to obſcure and oppoſe the Sunne: but at its firſt appearance it diſſipate them all; Even ſo the plots which the Papiſts pretend againſt our Parliament, are nullified as eaſily at the ſplendent and glorious appea<g ref="char:EOLhyphen"/>rance of the irilluſtrious Councels.</p>
+            <p>But leſt I ſhould deviate from my purpoſe, I will in ſome manner relate the intended treacherie which the Papiſts had in tended againſt the Parliament.</p>
+            <p>Many of the Ieſuites, and other Recuſants, knowing that the Parliament was tranferred into London, firſt at Guild Hall, and afterwards at Grocers Hall, did convo<g ref="char:EOLhyphen"/>cate their hell-nouriſhed Councels together, ſtriving to nurſe and foment ſome plot againſt them at their next returne unto Weſtminſter. Thus having ſo opportune a time, they moulded a conſpiracie; but they could not get the poſſeſſion againe of the Cellar: ſo that by this meanes they could not equalize the Gun-powder Trea<g ref="char:EOLhyphen"/>ſon plot. But they were reſolved to provide a ſudden Army, and great munition of Military affaires, that when as the Parliament ſhould returne to Weſtmin<g ref="char:EOLhyphen"/>ſter Hal againe, they would violently ruſh in upon them.</p>
+            <p>This nefarious conſpiracie of theirs was diſcovered by a Letter ſent from L. M. a Ieſuite, to R. C. a Po<g ref="char:EOLhyphen"/>piſh Lord, and was found by a Gentleman neere White<g ref="char:EOLhyphen"/>hall.
+<pb facs="tcp:126055:3"/>
+               <!-- PDF PAGE 9 -->This Letter did containe many prodigious things included in it, obſcurely mentioning of ſome private treachery, which was intended againſt the Parliament and Citie of London, and did give the Lord notice to bee abſent at ſuch a time; when the plot was to bee delivered. But report hereof being immediatly ſent to the Committee, great watch was appointed to attend on both ſides of the Parliament Houſe, and carefull ſearch about the houſe, and the Cellar thereof.</p>
+            <p>But (alas!) how all their determinated Councels were diſanulled, and how all their inventions were fruſtrated: for the Parliament themſelves did ſuſ<g ref="char:EOLhyphen"/>pect ſome private treachery amongſt the Papiſts, fo<g ref="char:EOLhyphen"/>mented againſt them: therefore they deſired the trai<g ref="char:EOLhyphen"/>ned Bands to guard them to the Houſe. The Water<g ref="char:EOLhyphen"/>men proffred ten thouſand of them in Arms to guard them downe by water. And hereupon having preſen<g ref="char:EOLhyphen"/>ted a Petition to both, it was accordingly granted. Thus the Parliament was conducted with irreſiſtable forces; and maugre all the intents of the Romiſh Recuſants reſolutions, they returned to Weſtmin<g ref="char:EOLhyphen"/>ſter in great pompe, ſufety, peace and tranquility to both houſes, with the plauſible acclamations of the people.</p>
+            <p>But the Papiſts had not onely intended their plot againſt the Parliament, but alſo, againſt London: Whereupon the Citizens, having great ſuſpition thereof, doe watch day and night in defence of them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>They muſt have ſtrong forces that are reſolved to ſubvert a Citie ſo great, and, ſo ſtrong, and ſo well
+<pb facs="tcp:126055:4"/>
+               <!-- PDF PAGE 10 -->fortified as <hi>London</hi> is: for otherwiſe they will ſeeme but as a Boy to a Giant, or a Pigmy to <hi>Heroides.</hi> They may proceed in their Conſpiracies, but I be<g ref="char:EOLhyphen"/>lieve to little effect: for there is a divine providence that ſees their wicked and nafarious machinations, who will never permit his people that truſt in him, to bee ſubverted by ſuch trayterous deſignes. The Kings Maieſty perceiving the City in ſuch tumultu<g ref="char:EOLhyphen"/>ous diſcords, and diſſentions, went laſt Munday to Hampton Court, with the Queen, Prince, and all his royall Off-ſpring. Divers cauſes did induce him thereunto: firſt being oppoſed in his Maieſties plea<g ref="char:EOLhyphen"/>ſure by the Houſe of Commons, concerning Maſter <hi>Pym,</hi> and other Parliament men, who were impeach<g ref="char:EOLhyphen"/>ed of High Treaſon: but it was denyed by the Houſe, who delivered themſelves as Reſponſall for thoſe Members, who were accuſed. The Kings Maieſty having in his owne royall Perſon once or twice de<g ref="char:EOLhyphen"/>manded them of the Houſe, and being ſtill fruſtra<g ref="char:EOLhyphen"/>ted, afterwards proclaimed them Traytors: but the Houſe of Commons ſet out a Declaration to the contrary. Thus His Maieſty being croſſed in his Princely intent, was ſomewhat perplexed hereupon in his vexarious thoughts, which cauſed his iuſt indig<g ref="char:EOLhyphen"/>nation: and partly for this cauſe, and partly for the dayly tumults, and confuſive nprores in the City, His Maieſtie departed from Weſtminſter to Hamp<g ref="char:EOLhyphen"/>ton Court, with the Queen, Prince, and his Royall Progenie: having at the leaſt two or three hundred men guarding them, everie man with a brace of Pi<g ref="char:EOLhyphen"/>ſtolls. God grant that His Maieſtie may returne a<g ref="char:EOLhyphen"/>gaine, to the preſervation of peace, and tranquillitie in the Kingdome. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:126055:4"/>
+            <!-- PDF PAGE 10 -->
+         </div>
+      </body>
+   </text>
+</TEI>
